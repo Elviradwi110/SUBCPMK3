@@ -249,4 +249,4 @@ Model memperoleh akurasi sebesar 42.86%. Hasil ini dipengaruhi oleh jumlah data 
 
 Repository GitHub:
 
-https://github.com/Elviradwi110/CBR_PHI
+[https://github.com/Elviradwi110/CBR_PHI](https://github.com/Elviradwi110/SUBCPMK3)
