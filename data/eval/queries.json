@@ -1,0 +1,27 @@
+[
+  {
+    "query_id": 1,
+    "query": "pemutusan hubungan kerja sepihak dan pesangon",
+    "ground_truth": "case_001.txt"
+  },
+  {
+    "query_id": 2,
+    "query": "perselisihan hubungan industrial",
+    "ground_truth": "case_002.txt"
+  },
+  {
+    "query_id": 3,
+    "query": "hak pekerja dan kompensasi",
+    "ground_truth": "case_003.txt"
+  },
+  {
+    "query_id": 4,
+    "query": "pesangon karyawan",
+    "ground_truth": "case_004.txt"
+  },
+  {
+    "query_id": 5,
+    "query": "PHK tanpa pemberitahuan",
+    "ground_truth": "case_005.txt"
+  }
+]
